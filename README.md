@@ -1,4 +1,4 @@
-# DamSort — Tri intelligent & suppression des doublons
+﻿# DamSort — Tri intelligent & suppression des doublons
 
 > **Organisez vos fichiers en un clic.** DamSort trie automatiquement par extension, détecte et supprime les doublons, et affiche des statistiques détaillées sur vos dossiers.
 
@@ -18,7 +18,7 @@
 
 | Tri par extension | Suppression des doublons | Statistiques |
 |:-----------------:|:------------------------:|:------------:|
-| ![Tri](assets/screenshot_tri.png) | ![Doublons](assets/screenshot_doublons.png) | ![Stats](assets/screenshot_stats.png) |
+| ![Tri](screenshot_tri.png) | ![Doublons](screenshot_doublons.png) | ![Stats](screenshot_stats.png) |
 
 ---
 
