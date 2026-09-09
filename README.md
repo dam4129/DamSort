@@ -4,11 +4,11 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-1.2-blue?style=for-the-badge)](https://github.com/dam4129/DamSort/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.4-blue?style=for-the-badge)](https://github.com/dam4129/DamSort/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078d4?style=for-the-badge&logo=windows)](https://github.com/dam4129/DamSort/releases/latest)
-[![Licence](https://img.shields.io/badge/Licence-Freemium-orange?style=for-the-badge)](https://buymeacoffee.com/daminformat)
+[![Gratuit](https://img.shields.io/badge/Gratuit-50%20fichiers%20par%20op%C3%A9ration-orange?style=for-the-badge)](https://lelabodedam.com/)
 
-**[⬇ Télécharger](https://github.com/dam4129/DamSort/releases/latest)** · **[☕ Soutenir le projet](https://buymeacoffee.com/daminformat)** · **[🌐 Site officiel](https://lelabodedam.com/)**
+**[⬇ Télécharger](https://github.com/dam4129/DamSort/releases/latest)** · **[🌐 Site officiel](https://lelabodedam.com/)**
 
 </div>
 
@@ -47,34 +47,33 @@
 - Compteur cumulatif de doublons supprimés
 - Partage en un clic sur **Facebook** et **X (Twitter)**
 
+### Mise à jour automatique
+Au démarrage, DamSort vérifie s'il existe une version plus récente et vous prévient.
+
 ---
 
-## Système de licence
+## Gratuit pour toujours
 
-DamSort est **freemium** :
+DamSort n'expire pas et ne compte pas vos lancements. La version gratuite traite **jusqu'à 50 fichiers par opération** — largement de quoi ranger un dossier de téléchargements au quotidien.
 
-| Mode | Fonctionnalités |
-|------|----------------|
-| **Gratuit** | 30 utilisations offertes |
-| **Activé** | Utilisations illimitées |
+| Formule | Ce que vous obtenez |
+|---------|--------------------|
+| **Gratuit** | 50 fichiers par tri et par nettoyage de doublons — sans limite de durée |
+| **Abonné — 3,99 €/an** | Fichiers illimités : un dossier entier en une seule opération |
 
-Pour activer : achetez une clé sur [Buy Me a Coffee](https://buymeacoffee.com/daminformat) ou sur [lelabodedam.com](https://lelabodedam.com/).
+L'aperçu et la simulation restent **toujours complets**, même en version gratuite : vous voyez l'intégralité de ce qui serait rangé avant de décider.
+
+Pour vous abonner : dans le logiciel, menu **Outils → Passer en illimité**, ou sur [lelabodedam.com](https://lelabodedam.com/).
 
 ---
 
 ## Installation
 
-1. Téléchargez `DamSort_Setup_v1.2.exe` depuis les [Releases](https://github.com/dam4129/DamSort/releases/latest)
+1. Téléchargez `DamSort_Setup_v1.4.exe` depuis les [Releases](https://github.com/dam4129/DamSort/releases/latest)
 2. Lancez l'installateur (Windows 10/11)
 3. DamSort s'installe et crée un raccourci bureau
 
 > **Mise à jour** : relancez simplement le nouvel installateur — pas besoin de désinstaller l'ancienne version.
-
----
-
-## Mise à jour automatique
-
-Au démarrage, DamSort vérifie automatiquement si une nouvelle version est disponible. Une notification s'affiche si une mise à jour est prête.
 
 ---
 
