@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-1.4-blue?style=for-the-badge)](https://github.com/dam4129/DamSort/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.5-blue?style=for-the-badge)](https://github.com/dam4129/DamSort/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078d4?style=for-the-badge&logo=windows)](https://github.com/dam4129/DamSort/releases/latest)
 [![Gratuit](https://img.shields.io/badge/Gratuit-50%20fichiers%20par%20op%C3%A9ration-orange?style=for-the-badge)](https://lelabodedam.com/)
 
@@ -69,11 +69,11 @@ Pour vous abonner : dans le logiciel, menu **Outils → Passer en illimité**, o
 
 ## Installation
 
-1. Téléchargez `DamSort_Setup_v1.4.exe` depuis les [Releases](https://github.com/dam4129/DamSort/releases/latest)
+1. Téléchargez `DamSort_Setup_v1.5.exe` depuis les [Releases](https://github.com/dam4129/DamSort/releases/latest)
 2. Lancez l'installateur (Windows 10/11)
 3. DamSort s'installe et crée un raccourci bureau
 
-> **Mise à jour** : relancez simplement le nouvel installateur — pas besoin de désinstaller l'ancienne version.
+> **Mises à jour suivantes** : DamSort s'en charge. Il télécharge la nouvelle version en tâche de fond et l'installe en un clic, sans passer par le navigateur. Une pastille apparaît dans la barre de statut quand elle est prête.
 
 ---
 
